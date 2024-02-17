@@ -1,12 +1,12 @@
 <script setup>
-import Ilkkan from './components/Ilkkan.vue'
+import Oray from './components/Oray.vue'
 </script>
 
 <template>
-  <Ilkkan />
+  <Oray />
 
   <div class="icons">
-    <a href="https://github.com/yinkar/ilkkanmatik" title="Github Repo">
+    <a href="https://github.com/xebion/oraymatik" title="Github Repo">
       <img src="./assets/icons/github.svg" alt="Github Repo">
     </a>
   </div>

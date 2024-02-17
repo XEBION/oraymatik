@@ -3,7 +3,7 @@ import { onMounted, ref } from 'vue';
 import voices from '../assets/voices.json';
 
 // Element references
-const ilkkan = ref(null);
+const oray = ref(null);
 const player = ref(null);
 const audioSource = ref(null);
 
@@ -66,7 +66,7 @@ function silence() {
 onMounted(() => {
   // Set voice files to array
   voices.forEach(v => {
-    voiceFiles.value.push(`/ilkkanmatik/${v.file}`);
+    voiceFiles.value.push(`/oraymatik/${v.file}`);
   });
 
   // Assign keyboard keys to say an idiom
@@ -77,15 +77,15 @@ onMounted(() => {
 <template>
   <button
     @click="idiom()"
-    class="ilkkan"
-    ref="ilkkan" 
+    class="oray"
+    ref="oray" 
     :class="{
       talking: isTalking,
       loading: isLoading,
       begin: isBegin
     }"
   >
-    <img src="../assets/ilkkan.png" alt="İlkkan">
+    <img src="../assets/oray.png" alt="Oray">
   </button>
 
   <audio id="player" ref="player" @ended="silence" @pause="silence" @playing="talk" v-show="false" preload="auto">
@@ -94,7 +94,7 @@ onMounted(() => {
 </template>
 
 <style scoped>
-  .ilkkan {
+  .oray {
     border: none;
     background: none;
     cursor: pointer;
@@ -104,7 +104,7 @@ onMounted(() => {
     outline: none;
   }
 
-  .ilkkan > img {
+  .oray > img {
     width: 200px;
     height: 253px;
   }

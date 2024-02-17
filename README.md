@@ -1,7 +1,7 @@
-# İlkkanmatik
-Random idioms of İlkkan from Gibi series
+# Oraymatik
+Random noises from Oray Bey and Koray Bey
 
-[Website](https://yinkar.github.io/ilkkanmatik)
+[Website](https://xebion.github.io/oraymatik)
 
 ## Screenshot
 ![Screenshot](screenshot.png)
