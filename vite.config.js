@@ -4,7 +4,7 @@ import { VitePWA } from 'vite-plugin-pwa';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/ilkkanmatik',
+  base: '/oraymatik',
   plugins: [
     vue(),
     VitePWA({
@@ -19,8 +19,8 @@ export default defineConfig({
         'icon-512.png',
       ],
       manifest: {
-          "name": "Ilkkanmatik",
-          "short_name": "Ilkkanmatik",
+          "name": "oraymatik",
+          "short_name": "oraymatik",
           "description": "Random idioms of İlkkan from Gibi series",
           "theme_color": "#ffbb00",
           "background_color": "#3c3c3d",

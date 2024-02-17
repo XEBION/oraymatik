@@ -1,87 +1,27 @@
 [
     {
         "id": 1,
-        "file": "voices/ilkkan1.mp3",
-        "description": "Hərzəkar ağız başa yumruq vurdurar"
+        "file": "voices/oray1.mp3",
+        "description": "Oray değil Koray"
     },
     {
         "id": 2,
-        "file": "voices/ilkkan2.mp3",
-        "description": "Avcı ne kadar hile bilirse ayı da o kadar yol bilir"
+        "file": "voices/oray2.mp3",
+        "description": "Oray benim varlığımdan haberdar olmamalı. Sonra bozuşuruz ha!"
     },
     {
         "id": 3,
-        "file": "voices/ilkkan3.mp3",
-        "description": "Abi yaxşı gündə yar yaxşıdır yaman gündə yetiş qardaş"
+        "file": "voices/oray3.mp3",
+        "description": "Oray Oray Oray! Başka şey bilmez misin sen be!"
     },
     {
         "id": 4,
-        "file": "voices/ilkkan4.mp3",
-        "description": "Ya Yılmazım bak insan söylerse boşalır, susarsa şişer"
+        "file": "voices/oray4.mp3",
+        "description": "Hayır. Ben Oray Bey değilim. Ben Oray Bey'in kardeşi Koray Bey'im. Bu gözlük olmadığı için beni karıştırdın. Kardeşim yani Oray Bey, bu gözlüğü taktığı için onu Koray Bey zannettin. Ama aslında ben Koray Bey, Oray Bey değilim. Çünkü bu gözlük bende de var. Ben Oray Bey'in kardeşi Koray Bey'im."
     },
     {
         "id": 5,
-        "file": "voices/ilkkan5.mp3",
-        "description": "Abi tanrıyı güldürmek istiyorsan ona planlarından bahset"
-    },
-    {
-        "id": 6,
-        "file": "voices/ilkkan6.mp3",
-        "description": "Her kim ki biner ellerin sıtkına, elbet düşer milletin rıkkına"
-    },
-    {
-        "id": 7,
-        "file": "voices/ilkkan7.mp3",
-        "description": "\"Bir yıl sonrasıysa düşündüğün, tohum ek. Ağaç dik, on yıl sonrasıysa tasarladığın, Ama yüz yıl sonrasını düşünüyorsan, halkı eğit. Bir kez tohum ekersen, bir kez ürün alırsın, bir kez ağaç dikersen, on kez ürün alırsın, ama yüz kez olur o ürün, eğitirsen toplumu. Birine balık verirsen doyar bir defa. Balık tutmayı öğret, doysun ömrü boyunca\" der Kuan-Tzu"
-    },
-    {
-        "id": 8,
-        "file": "voices/ilkkan8.mp3",
-        "description": "İlkbaharda usul usul yürü, toprak ana hamiledir"
-    },
-    {
-        "id": 9,
-        "file": "voices/ilkkan9.mp3",
-        "description": "Ne derler? Tebdili mekanda ferahlık vardır, bir. Sahipsiz kapı anahtarsız açılır, iki"
-    },
-    {
-        "id": 10,
-        "file": "voices/ilkkan10.mp3",
-        "description": "İnsanların olmamızı istediği kişi değiliz, olmaya karar verdiğimiz kişiyiz der Paulo Coelho"
-    },
-    {
-        "id": 11,
-        "file": "voices/ilkkan11.mp3",
-        "description": "İşte yayla kadar götüm olsa tek çobanım sen olmazdın"
-    },
-    {
-        "id": 12,
-        "file": "voices/ilkkan12.mp3",
-        "description": "Hayat, her zaman arzularımızı ve beklentilerimizi karşılamıyor"
-    },
-    {
-        "id": 13,
-        "file": "voices/ilkkan13.mp3",
-        "description": "Abi dost, kötü günde belli olur"
-    },
-    {
-        "id": 14,
-        "file": "voices/ilkkan14.mp3",
-        "description": "Ayinesi iştir kişinin lafa bakılmaz"
-    },
-    {
-        "id": 15,
-        "file": "voices/ilkkan15.mp3",
-        "description": "Olacakla öleceğin çaresi yoktur abi"
-    },
-    {
-        "id": 16,
-        "file": "voices/ilkkan16.mp3",
-        "description": "Abi bak, size şunu söyleyeyim. Gök gürlerse yağmur yağar ve Güneş'tir her yağmurun ardından beliren..."
-    },
-    {
-        "id": 17,
-        "file": "voices/ilkkan17.mp3",
-        "description": "Ah benim emeklerim! Ah benim dertli başım! Sana da şunu söyleyeyim Nezih abi, zamanı yenemezsin"
+        "file": "voices/oray5.mp3",
+        "description": "Sen benim işimi bozabileceğini mi sandın?"
     }
 ]
