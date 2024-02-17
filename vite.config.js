@@ -21,7 +21,7 @@ export default defineConfig({
       manifest: {
           "name": "oraymatik",
           "short_name": "oraymatik",
-          "description": "Random idioms of İlkkan from Gibi series",
+          "description": "Random Oray Bey noises",
           "theme_color": "#ffbb00",
           "background_color": "#3c3c3d",
           "icons": [
